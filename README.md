@@ -1,6 +1,9 @@
 # 5-Stage-Superscalar-Pipeline
 Dependency Tracking and Forwarding for a 5-stage Superscalar Pipeline with Branch Prediction
- 
+
+![image](https://github.com/user-attachments/assets/0f78b723-dbba-4143-bd3d-b3c6f7b524d7)
+
+
 ## Part A
 
 Assumption: The pipeline has perfect branch prediction and does not suffer any stalls due to control flow dependencies. 
